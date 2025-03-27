@@ -1,1 +1,1 @@
-# osTickets.prereqs
+# osTickets-prereqs
